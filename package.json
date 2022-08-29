@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "@badrap/bar-of-progress": "^0.1.2",
+    "@heroicons/react": "^2.0.8",
     "date-fns": "^2.28.0",
     "next": "latest",
     "react": "^17.0.2",
@@ -23,5 +24,19 @@
     "prettier-plugin-tailwindcss": "^0.1.1",
     "tailwindcss": "^3.0.7",
     "typescript": "4.5.4"
-  }
+  },
+  "name": "airbnb",
+  "description": "This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/57alok/Hotel-booking-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/57alok/Hotel-booking-clone/issues"
+  },
+  "homepage": "https://github.com/57alok/Hotel-booking-clone#readme"
 }
